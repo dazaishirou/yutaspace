@@ -12,7 +12,7 @@ body {
    display: flex;
    justify-content: center;
    align-items: center;
-   min-height: 50vh;
+   min-height:60vh;
    background: var(--bg);
 }
 ul {
@@ -92,4 +92,4 @@ ul li a span {
 
 body
 {overflow-x:hidden;
-background-image: url("https://i.imgur.com/QgkjR2K.gif"),url("https://i.imgur.com/6cW7UlA.gif")
+background-image: url("https://i.imgur.com/QgkjR2K.gif"),url("https://i.ibb.co/ZSzkW9V/Screenshot-14.png")
